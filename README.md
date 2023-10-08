@@ -1,3 +1,4 @@
+![logo](https://github.com/BialasDamian/About_Me/blob/main/Resume%20profile%20QR.png)
 <h1 align="center">Hi 👋, I'm Damian Białas</h1>
 <h3 align="center">Passionate about IT, with expertise in AI, Front-End, Back-End, and cybersecurity.</h3>
 <img align = "right" alt="imagealign" width="400" src="https://media1.giphy.com/media/3o85xxpDp9J4Jlv62Q/giphy.gif?cid=ecf05e47nq0lwjz1d4sch2c6d2n7k8sqdk8a67uveo8dix6t&ep=v1_gifs_related&rid=giphy.gif&ct=g">
