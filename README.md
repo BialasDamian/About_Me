@@ -6,7 +6,7 @@
 
 - 💬 **I am actively seeking new professional opportunities. If you have any open positions within your organization, please don't hesitate to contact me. I believe my skills and experience could be a valuable addition to your team, and together we can contribute to the success of exciting projects."**
 
-- 🔭 I’m currently working on my website: [www.damianbialas.cba.pl](www.damianbialas.cba.pl)
+- 🔭 I’m currently working on my website: (www.damianbialas.cba.pl)
 
 - 🌱 I’m currently learning **WordPress, and more courses on the way.**
 
